@@ -48,8 +48,7 @@ skills:
       - name: RStudio
         description: ''
         percent: 70
-        icon: rstudio
-        icon_pack: devicon
+        icon: devicon/rstudio
       - name: Data Science
         description: ''
         percent: 70
@@ -59,7 +58,6 @@ skills:
         description: ''
         percent: 80
         icon: stata
-        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -75,7 +73,7 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: hike
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -111,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maria is a SSHRC Doctoral Fellow (2023-2026) at Western University and a CAnD3 Fellow (2023-2024). Her research interests lie at the intersection of population health and public policy with a focus on structural and social inequalities. Using quantitative and qualitative research designs, Maria examines inequities in health and the impacts of public policies on disadvantaged populations.
 {style="text-align: justify;"}
