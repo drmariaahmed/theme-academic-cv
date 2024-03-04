@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -50,7 +50,8 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
+
+#  - block: experience
     content:
       title: Experience
       # Date format for experience
@@ -75,8 +76,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+#        - title: Professor of Semiconductor Physics
+#          company: University X
           company_url: ''
           company_logo: org-x
           location: California
@@ -88,7 +89,8 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+
+#      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -130,7 +132,8 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+
+#      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -154,6 +157,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
@@ -180,8 +184,9 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: markdown
+      flip_alt_rows: true
+
+#  - block: markdown
     content:
       title: Gallery
       subtitle: ''
@@ -189,7 +194,8 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
+
+#  - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -200,7 +206,8 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
+
+#  - block: collection
     content:
       title: Recent Publications
       text: |-
@@ -214,7 +221,8 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+
+#  - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -224,34 +232,38 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
+
+#  - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
+
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text:
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
+      email: maria.ahmed@uwo.com
+      
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
+      # address:
         street: 450 Serra Mall
         city: Stanford
         region: CA
         postcode: '94305'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      # Choose a map provider in `params.yaml` to show a map from these 
+      
+# coordinates
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'  
