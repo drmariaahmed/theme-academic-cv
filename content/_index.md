@@ -55,7 +55,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: ePortfolio
       filters:
         folders:
           - project
@@ -69,10 +69,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Policy Brief
+          tag: Policy Brief
+        - name: Infographic
+          tag: Infographic
+        - name: Article
+          tag: Article
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
