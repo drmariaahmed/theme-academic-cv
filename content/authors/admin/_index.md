@@ -9,9 +9,6 @@ last_name: Ahmed
 # Is this the primary user of the site?
 superuser: true
 
-banner:
-  image: 'header.png'
-
 # Role/position/tagline
 role: PhD Candidate, SSHRC Doctoral Fellow, CAnD3 Fellow
 
