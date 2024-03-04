@@ -9,6 +9,9 @@ last_name: Ahmed
 # Is this the primary user of the site?
 superuser: true
 
+banner:
+  image: 'header.png'
+
 # Role/position/tagline
 role: PhD Candidate, SSHRC Doctoral Fellow, CAnD3 Fellow
 
@@ -48,10 +51,11 @@ skills:
       - name: RStudio
         description: ''
         percent: 70
-        icon: devicon/rstudio
+        icon: rstudio
+        icon_pack: fas
       - name: Data Science
         description: ''
-        percent: 70
+        percent: 90
         icon: chart-line
         icon_pack: fas
       - name: Stata
