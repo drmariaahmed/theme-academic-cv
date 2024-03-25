@@ -54,7 +54,7 @@ sections:
       columns: '1'
 
 
-  - block: portfolio
+#  - block: portfolio
     id: projects
     content:
       title: ePortfolio
