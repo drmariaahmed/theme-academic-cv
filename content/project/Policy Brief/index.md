@@ -1,5 +1,5 @@
 ---
-title: IDEA Module - Disparities in Access to Healthcare Services in Canada
+title: IDEA Module Disparities in Access to Healthcare Services in Canada
 summary: The project showcases slides developed for a policy analysis of healthcare access in Canada using the Canadian Community Health Survey (2017-18)
 tags:
   - Healthcare, Disparities, Access, Aging
