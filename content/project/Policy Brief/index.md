@@ -2,7 +2,7 @@
 title: IDEA Module
 summary: Disparities in Access to Healthcare Services in Canada. The project showcases slides developed for a policy analysis of healthcare access in Canada using the Canadian Community Health Survey (2017-18).
 tags:
-  - Deep Learning
+  - Healthcare, Access, Disparities, Aging
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: 
+    icon_pack: 
+    name: 
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''
